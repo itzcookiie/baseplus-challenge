@@ -1,0 +1,32 @@
+[
+  {
+    "id": 683,
+    "title": {
+      "rendered": "What's your age range?"
+    },
+    "content": {
+      "rendered": "20 and under, 21-35, 36-45, 46-55, 56+"
+    },
+    "excerpt": {
+      "rendered": "acne|none|ageing|ageing|ageing"
+    },
+    "meta": [],
+    "prompt": "This information helps us to select ingredients that support your skin's needs at the right time"
+    
+  },
+  {
+    "id": 682,
+    "title": {
+      "rendered": "What gender best describes you?"
+    },
+    "content": {
+      "rendered": "Male, Female, I identify as (please enter)",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "none|none|custom",
+      "protected": false
+    },
+    "prompt": ""
+  }
+]
