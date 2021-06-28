@@ -4,6 +4,9 @@
 
 ---
 
+### Work
+All work relating to the app lives in `src/Components`
+
 #### Technology used
 - React bootstrap
 - React
