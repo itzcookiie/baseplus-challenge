@@ -1,0 +1,44 @@
+.subtitle {
+    font-size: 0.9rem;
+  }
+  
+  .custom-answer {
+    width: 75%;
+    border-right: 0;
+    border-top: 0;
+    border-left: 0;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+  
+  .custom-answer:focus {
+    outline: none;
+  }
+  
+  @media screen and (max-width: 620px) {
+    button[type="button"] {
+      padding: 10px 15px;
+    }
+  }
+
+  html {
+    font-size: 1rem;
+  }
+  
+  @include media-breakpoint-up(sm) {
+    html {
+      font-size: 1.2rem;
+    }
+  }
+  
+  @include media-breakpoint-up(md) {
+    html {
+      font-size: 1.4rem;
+    }
+  }
+  
+  @include media-breakpoint-up(lg) {
+    html {
+      font-size: 1.6rem;
+    }
+  }
